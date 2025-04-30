@@ -9,4 +9,5 @@ Hi there! 👋 I'm Aditya Anand from Dhanbad, Jharkhand, India.
 
 Feel free to explore my repositories!  
 Let's connect and grow together 🚀
+![image](https://github.com/user-attachments/assets/4b3252bc-5e6f-4467-ae21-e69854eed66e)
  

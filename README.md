@@ -1,6 +1,6 @@
   ![image](https://github.com/user-attachments/assets/4b3252bc-5e6f-4467-ae21-e69854eed66e)
 
-Hi there! 👋 I'm Aditya Anand from Dhanbad, Jharkhand, India.
+Hi there! 👋 I'm Aditya Anand from  Jharkhand, India.
 
 🎓 B.Tech Student in Electronics and Communication Engineering.  
 📊 Passionate about Data Engineering, Data Analysis, and SQL development.  

@@ -1,6 +1,6 @@
-  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" />
+  <img src="https://media.giphy.com/media/26gR1sS5WHDpLWR4Q/giphy.gif" alt="Tech Animation" width="100%" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Aditya Anand</h1>
@@ -18,20 +18,19 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 Graduated in **Electronics & Communication Engineering** from **GITAM University**, Visakhapatnam
-- 🌍 Based in **Dhanbad, Jharkhand, India**
-- 📈 Aspiring **Data Analyst** with a growing passion for data and insights
-- 💡 Strong foundation in **Python**, **SQL**, and data visualization tools
-- 🧠 Fast learner, collaborative team player, and friendly with modern development interfaces
+- 🎓 Graduated in **Electronics & Communication Engineering** from **GITAM University**, Visakhapatnam  
+- 🌍 Based in **Dhanbad, Jharkhand, India**  
+- 📈 Aspiring **Data Analyst** passionate about data and insights  
+- 💡 Skilled in **Python**, **SQL**, and **data visualization tools**  
+- 🤝 Friendly with platforms like **GitHub**, **VS Code**, and **Replit**
 
 ---
 
 ## 💼 Internship Experience
 
 - 🏭 **BHEL (BAP Division)** — EC&I Department  
-  - 📘 **Study of Design of Sewage Treatment Plant of Power Plant**
-  - Focused on instrumentation and process control systems
-  - Gained hands-on understanding of engineering systems in real-world environments
+  - 📘 Project: **Study of Design of Sewage Treatment Plant of Power Plant**
+  - Learned industrial process design and instrumentation systems
 
 ---
 
@@ -53,10 +52,10 @@
 
 ## 🚀 Goals
 
-- 🔍 Master **Data Analysis** and **Data Visualization**
-- 🌱 Continue learning **DSA** to enhance algorithmic thinking
-- 🤝 Collaborate on **open-source** and analytics-based projects
-- 📊 Dive deeper into **business intelligence tools**
+- 🔍 Master **Data Analysis** and **Visualization**
+- 🌱 Continue growing in **DSA** and problem-solving
+- 💼 Work on **real-world datasets** and **projects**
+- 🤝 Collaborate with developers and contribute to **open-source**
 
 ---
 

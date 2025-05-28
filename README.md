@@ -60,6 +60,16 @@
 
 ---
 
+## 📁 Projects
+
+- [🦄 Unicorn Company Analysis](https://github.com/adityadothub/unicorn-company-analysis)  
+  Conducted detailed data analysis on leading unicorn companies to identify growth trends, investment patterns, and market insights using Python and Tableau.
+
+- [👥 Customer Segmentation](https://github.com/adityadothub/customer-segmentation)  
+  Developed customer segmentation models using clustering algorithms in Python to optimize marketing strategies and improve customer targeting.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

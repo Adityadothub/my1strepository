@@ -1,12 +1,17 @@
 
+
+
+
+
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26gR1sS5WHDpLWR4Q/giphy.gif" alt="Tech Animation" width="100%" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Data Analytics Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hello, I'm Aditya Anand</h1>
+<h1 align="center">📊 Hello, I'm Aditya Anand</h1>
 
 <p align="center">
-🎓 Electronics & Communication Graduate | 📊 Aspiring Data Analyst | 🌟 Tech Explorer  
+🎓 Electronics & Communication Graduate | 📈 Aspiring Data Analyst | 📊 Data Enthusiast  
 </p>
 
 <p align="center">
@@ -20,9 +25,9 @@
 
 - 🎓 Graduated in **Electronics & Communication Engineering** from **GITAM University**, Visakhapatnam  
 - 🌍 Based in **Dhanbad, Jharkhand, India**  
-- 📈 Aspiring **Data Analyst** passionate about data and insights  
-- 💡 Skilled in **Python**, **SQL**, and **data visualization tools**  
-- 🤝 Friendly with platforms like **GitHub**, **VS Code**, and **Replit**
+- 🧠 Passionate about turning raw data into meaningful insights  
+- 💼 Aspiring **Data Analyst** focused on **Python**, **SQL**, and **data visualization**  
+- 🤝 Comfortable working with tools like **GitHub**, **VS Code**, and **Replit**
 
 ---
 
@@ -30,20 +35,22 @@
 
 - 🏭 **BHEL (BAP Division)** — EC&I Department  
   - 📘 Project: **Study of Design of Sewage Treatment Plant of Power Plant**
-  - Learned industrial process design and instrumentation systems
+  - Focused on **data-based design analysis** and **instrumentation systems**
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-### 🧠 Skills & Learning:
+### 🧠 Core Skills:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DSA](https://img.shields.io/badge/Learning-DSA-blue?style=for-the-badge)
+
+### 📊 Data & Visualization:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🧰 Tools & Interfaces:
+### 🧰 Tools & Platforms:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
@@ -52,14 +59,14 @@
 
 ## 🚀 Goals
 
-- 🔍 Master **Data Analysis** and **Visualization**
-- 🌱 Continue growing in **DSA** and problem-solving
-- 💼 Work on **real-world datasets** and **projects**
-- 🤝 Collaborate with developers and contribute to **open-source**
+- 📊 Strengthen skills in **data analysis & visualization**
+- 🧠 Build impactful **data dashboards**
+- 🧪 Work on real-world **datasets** and **BI tools**
+- 🤝 Contribute to **data-centric open-source** projects
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityadothub&show_icons=true&theme=tokyonight" alt="Aditya's GitHub Stats" />
@@ -70,9 +77,8 @@
 ## 📫 Let's Connect!
 
 - 🐙 GitHub: [Aditya Anand](https://github.com/adityadothub)
-<!-- You can add LinkedIn, Email, or a portfolio link here -->
+<!-- Add LinkedIn or portfolio if available -->
 
 ---
 
-⭐ _“The goal is to turn data into information, and information into insight.” – Carly Fiorina_
-
+⭐ _“Without data, you're just another person with an opinion.” – W. Edwards Deming_

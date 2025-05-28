@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Futuristic Data Animation" width="100%" />
 </p>
@@ -11,7 +5,7 @@
 <h1 align="center">📊 Hello, I'm Aditya Anand</h1>
 
 <p align="center">
-🎓 Electronics & Communication Graduate | 📈 Aspiring Data Analyst | 📊 Data Enthusiast  
+🎓 Electronics & Communication Graduate | 📈 Aspiring Data Analyst | 💡 Data Enthusiast  
 </p>
 
 <p align="center">
@@ -24,33 +18,33 @@
 ## 🧑‍🎓 About Me
 
 - 🎓 Graduated in **Electronics & Communication Engineering** from **GITAM University**, Visakhapatnam  
-- 🌍 Based in **Dhanbad, Jharkhand, India**  
-- 🧠 Passionate about turning raw data into meaningful insights  
-- 💼 Aspiring **Data Analyst** focused on **Python**, **SQL**, and **data visualization**  
-- 🤝 Comfortable working with tools like **GitHub**, **VS Code**, and **Replit**
+- 📍 Based in **Dhanbad, Jharkhand, India**  
+- 💻 Aspiring **Data Analyst** passionate about extracting insights from data  
+- 💬 Enthusiastic about **Python**, **SQL**, **Power BI**, and **Tableau**  
+- 🧰 Comfortable with **GitHub**, **VS Code**, and **Replit**
 
 ---
 
 ## 💼 Internship Experience
 
 - 🏭 **BHEL (BAP Division)** — EC&I Department  
-  - 📘 Project: **Study of Design of Sewage Treatment Plant of Power Plant**
-  - Focused on **data-based design analysis** and **instrumentation systems**
+  - 📘 **Project**: *Study of Design of Sewage Treatment Plant of Power Plant*  
+  - Gained insights into data-driven engineering design and instrumentation
 
 ---
 
-## 💻 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 🧠 Core Skills:
+### 👨‍💻 Languages & Concepts:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DSA](https://img.shields.io/badge/Learning-DSA-blue?style=for-the-badge)
 
-### 📊 Data & Visualization:
+### 📊 Visualization Tools:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🧰 Tools & Platforms:
+### ⚙️ Tools & Platforms:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
@@ -59,14 +53,14 @@
 
 ## 🚀 Goals
 
-- 📊 Strengthen skills in **data analysis & visualization**
-- 🧠 Build impactful **data dashboards**
-- 🧪 Work on real-world **datasets** and **BI tools**
-- 🤝 Contribute to **data-centric open-source** projects
+- 📚 Sharpen my analytical thinking and problem-solving skills  
+- 📈 Work on real-time **data projects** and build a strong **portfolio**  
+- 🌍 Connect with fellow analysts and developers around the world  
+- 🛠 Contribute to **open-source projects** focused on **data insights**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityadothub&show_icons=true&theme=tokyonight" alt="Aditya's GitHub Stats" />
@@ -76,9 +70,14 @@
 
 ## 📫 Let's Connect!
 
-- 🐙 GitHub: [Aditya Anand](https://github.com/adityadothub)
-<!-- Add LinkedIn or portfolio if available -->
+<p align="center">
+  <a href="https://github.com/adityadothub"><img src="https://img.shields.io/badge/GitHub-adityadothub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aditya-anand-398845284"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/Aaadiiiii.tya_20"><img src="https://img.shields.io/badge/Instagram-@Aaadiiiii.tya_20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:adityanand208@gmail.com"><img src="https://img.shields.io/badge/Email-adityanand208@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/AdityaAnan88712"><img src="https://img.shields.io/badge/Twitter-@AdityaAnan88712-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐ _“Without data, you're just another person with an opinion.” – W. Edwards Deming_
+⭐ _“Jai Hanuman gyan gun sagar, Jai Kapis tihun lok ujagar.”_

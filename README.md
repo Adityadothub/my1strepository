@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Data Analytics Banner" width="100%" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Futuristic Data Animation" width="100%" />
 </p>
 
 <h1 align="center">📊 Hello, I'm Aditya Anand</h1>

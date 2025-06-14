@@ -21,6 +21,7 @@
 - 📍 Based in **Dhanbad, Jharkhand, India**  
 - 💻 Aspiring **Data Analyst** passionate about extracting insights from data  
 - 💬 Enthusiastic about **Python**, **SQL**, **Power BI**, and **Tableau**  
+- 🌟 2⭐ Python badge holder on HackerRank  
 - 🧰 Comfortable with **GitHub**, **VS Code**, and **Replit**
 
 ---

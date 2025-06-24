@@ -17,12 +17,26 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 Graduated in **Electronics & Communication Engineering** from **GITAM University**, Visakhapatnam  
-- 📍 Based in **Dhanbad, Jharkhand, India**  
-- 💻 Aspiring **Data Analyst** passionate about extracting insights from data  
-- 💬 Enthusiastic about **Python**, **SQL**, **Power BI**, and **Tableau**  
-- 🌟 2⭐ Python badge holder on HackerRank  
-- 🧰 Comfortable with **GitHub**, **VS Code**, and **Replit**
+- 🎓 **ECE Graduate** from **GITAM University**, Visakhapatnam  
+- 📍 Based in **Dhanbad, Jharkhand**  
+- 💼 Aspiring **Data Analyst** skilled in **Python, SQL, Power BI & Tableau**  
+- 🧰 Experienced with **GitHub**, **VS Code**, and **Replit**
+
+---
+
+## 🏆 HackerRank Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-2%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Python Badge" />
+  <img src="https://img.shields.io/badge/SQL-2%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Badge" />
+</p>
+
+- 🌟 **2⭐ Python** badge on HackerRank  
+- 🌟 **2⭐ SQL** badge on HackerRank  
+- 🧠 Practicing coding challenges and improving problem-solving skills  
+- 🚀 Continuously leveling up in data analysis and querying
+
+🔗 [Visit my HackerRank Profile](https://www.hackerrank.com/adityanand208)
 
 ---
 
@@ -39,7 +53,6 @@
 ### 👨‍💻 Languages & Concepts:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![DSA](https://img.shields.io/badge/Learning-DSA-blue?style=for-the-badge)
 
 ### 📊 Visualization Tools:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -52,22 +65,15 @@
 
 ---
 
-## 🚀 Goals
-
-- 📚 Sharpen my analytical thinking and problem-solving skills  
-- 📈 Work on real-time **data projects** and build a strong **portfolio**  
-- 🌍 Connect with fellow analysts and developers around the world  
-- 🛠 Contribute to **open-source projects** focused on **data insights**
-
----
-
 ## 📁 Projects
 
 - [🦄 Unicorn Company Analysis](https://github.com/adityadothub/unicorn-company-analysis)  
-  Conducted detailed data analysis on leading unicorn companies to identify growth trends, investment patterns, and market insights using Python and Tableau.
+  _Tech Used_: Python, SQLite, Pandas, Tableau  
+  ➤ Analyzed unicorn companies to uncover trends, investment patterns & market dynamics.
 
 - [👥 Customer Segmentation](https://github.com/adityadothub/customer-segmentation)  
-  Developed customer segmentation models using clustering algorithms in Python to optimize marketing strategies and improve customer targeting.
+  _Tech Used_: Python, Scikit-learn, Matplotlib  
+  ➤ Built customer clusters using unsupervised learning for targeted marketing.
 
 ---
 

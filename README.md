@@ -18,7 +18,7 @@
 ## 🧑‍🎓 About Me
 
 - 🎓 **ECE Graduate** from **GITAM University**, Visakhapatnam  
-- 📍 Based in **Dhanbad, Jharkhand**  
+- 📍 Based in **Bengaluru, Karnataka**  
 - 💼 Aspiring **Data Analyst** skilled in **Python, SQL, Power BI & Tableau**  
 - 🧰 Experienced with **GitHub**, **VS Code**, and **Replit**
 
